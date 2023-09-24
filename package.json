@@ -1,0 +1,27 @@
+{
+  "name": "pub-sub-eventbus",
+  "version": "1.0.0",
+  "description": "a event bus implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriwill/pub-sub-eventBus.git"
+  },
+  "keywords": [
+    "observer",
+    "eventBus",
+    "pub-sub"
+  ],
+  "author": "Gabriel Willans de Sousa Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabriwill/pub-sub-eventBus/issues"
+  },
+  "homepage": "https://github.com/gabriwill/pub-sub-eventBus#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
